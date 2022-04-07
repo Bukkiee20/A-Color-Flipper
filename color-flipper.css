@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
 }
+
 .container{
      display: flex;
      height: 100vh;
@@ -19,7 +20,16 @@
     font-size: 2rem;
     
 }
+#values{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: black;
+}
 h2{
     text-align: center;
     font-size: 3rem;
+    color:white;
+    background-color: black;
 }
